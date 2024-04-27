@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.header_nav{
+    display: flex;
+    column-gap: 30px;
+    margin-top: 50px;
+}
+.header_nav_link{
+    text-decoration: none;
+    color: #1a1a1a;
+    font-size: 18px;
+    font-weight: 600;
+}
