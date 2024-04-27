@@ -13,3 +13,23 @@
     font-size: 18px;
     font-weight: 600;
 }
+.title{
+    margin-top: 100px;
+    margin-left: 300px;
+    font-size: 42px;
+    font-weight: 700;
+}
+.text{
+    width: 750px;
+    margin-left: 300px;
+    margin-top: 25px;
+}
+.block{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.block_img{
+    width: 450px;
+    height: 450px;
+}
